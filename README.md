@@ -1,7 +1,7 @@
-# Naive Bayes Text Classification Streamlit Demo
+# Stereo Matching Image Depth Estimation Streamlit Demo
 
 ## Description
-A simple web demo for spam text classification using Naive Bayes and Streamlit. 
+A simple web demo for Image Depth Estimation on Streamlit. 
 
 ## How to use
 ### Option 1: Using conda environment
